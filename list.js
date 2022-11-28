@@ -1,7 +1,7 @@
 let allMusic = [
     {
-        name : "너를 생각해",
-        artist : "주시크",
+        name : "Like I Do",
+        artist : "David Guetta, Martin Garrix & Brooks",
         img : "img-1",
         audio : "m-1"
     },
